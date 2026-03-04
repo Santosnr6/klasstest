@@ -69,7 +69,7 @@ function helloVincent() {
 }
 
 function helloBoss() {
-
+    console.log("Hello Boss!");
 }
 
 function helloLeo() {
