@@ -45,11 +45,12 @@ function helloMinna() {}
 
 function helloVincent() {}
 
-function helloBoss() {}
+function helloBoss() {
 
 }
 
 function helloSughra() {
+	console.log("Hello Sughra");
 
 }
 
@@ -63,6 +64,7 @@ function helloVincent() {
 
 function helloBoss() {
     console.log("Hello Boss!");
+}
 function helloLeo() {}
 
 function helloJesper() {
