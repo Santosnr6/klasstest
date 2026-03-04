@@ -15,44 +15,37 @@ helloMinna();
 helloVincent();
 helloBoss();
 helloLeo();
+helloJesper();
 
-function helloFeras() {
-    
-}
+function helloFeras() {}
 
-function helloJonathan() {
+function helloJonathan() {}
 
-}
+function helloElias() {}
 
-function helloElias() {
-
-}
-
-function helloOliver() {
-
-}
+function helloOliver() {}
 
 function helloSara() {
-
+	console.log('Hello Sara');
 }
 
-function helloKonrad() {
+function helloKonrad() {}
 
-}
+function helloLisa() {}
 
-function helloLisa() {
+function helloAlexander() {}
 
-}
+function helloPer() {}
 
-function helloAlexander() {
+function helloMartin() {}
 
-}
+function helloSughra() {}
 
-function helloPer() {
+function helloMinna() {}
 
-}
+function helloVincent() {}
 
-function helloMartin() {
+function helloBoss() {}
 
 }
 
@@ -70,8 +63,8 @@ function helloVincent() {
 
 function helloBoss() {
     console.log("Hello Boss!");
-}
+function helloLeo() {}
 
-function helloLeo() {
-
+function helloJesper() {
+	console.log('Hejsan Jesper');
 }
