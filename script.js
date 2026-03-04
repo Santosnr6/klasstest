@@ -31,7 +31,9 @@ function helloSara() {
 
 function helloKonrad() {}
 
-function helloLisa() {}
+function helloLisa() {
+	console.log('Hello Lisa')
+}
 
 function helloAlexander() {}
 
