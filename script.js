@@ -15,6 +15,7 @@ helloMinna();
 helloVincent();
 helloBoss();
 helloLeo();
+helloJesper();
 
 function helloFeras() {
     
@@ -74,4 +75,8 @@ function helloBoss() {
 
 function helloLeo() {
 
+}
+
+function helloJesper() {
+    console.log('Hejsan Jesper');
 }
