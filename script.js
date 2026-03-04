@@ -47,6 +47,22 @@ function helloVincent() {}
 
 function helloBoss() {}
 
+}
+
+function helloSughra() {
+
+}
+
+function helloMinna() {
+
+}
+
+function helloVincent() {
+
+}
+
+function helloBoss() {
+    console.log("Hello Boss!");
 function helloLeo() {}
 
 function helloJesper() {
