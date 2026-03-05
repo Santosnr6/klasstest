@@ -1,4 +1,4 @@
-console.log('Hello');
+console.log("Hello");
 
 helloFeras();
 helloJonathan();
@@ -17,66 +17,38 @@ helloBoss();
 helloLeo();
 helloJesper();
 
-function helloFeras() {
-    
-}
+function helloFeras() {}
 
 function helloJonathan() {
-
+	console.log("Hejsan Jonathan!");
 }
 
-function helloElias() {
+function helloElias() {}
 
-}
+function helloOliver() {}
 
-function helloOliver() {
+function helloSara() {}
 
-}
+function helloKonrad() {}
 
-function helloSara() {
+function helloLisa() {}
 
-}
+function helloAlexander() {}
 
-function helloKonrad() {
+function helloPer() {}
 
-}
+function helloMartin() {}
 
-function helloLisa() {
+function helloSughra() {}
 
-}
+function helloMinna() {}
 
-function helloAlexander() {
+function helloVincent() {}
 
-}
+function helloBoss() {}
 
-function helloPer() {
-
-}
-
-function helloMartin() {
-
-}
-
-function helloSughra() {
-
-}
-
-function helloMinna() {
-
-}
-
-function helloVincent() {
-
-}
-
-function helloBoss() {
-
-}
-
-function helloLeo() {
-
-}
+function helloLeo() {}
 
 function helloJesper() {
-    console.log('Hejsan Jesper');
+	console.log("Hejsan Jesper");
 }
