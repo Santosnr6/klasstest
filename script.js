@@ -21,7 +21,9 @@ function helloFeras() {}
 
 function helloJonathan() {}
 
-function helloElias() {}
+function helloElias() {
+    console.log('Hello Elias');
+}
 
 function helloOliver() {}
 
