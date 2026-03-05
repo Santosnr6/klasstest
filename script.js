@@ -23,30 +23,57 @@ function helloJonathan() {
 	console.log("Hejsan Jonathan!");
 }
 
-function helloElias() {}
+function helloElias() {
+	console.log("Hello Elias");
+}
 
 function helloOliver() {}
 
-function helloSara() {}
+function helloSara() {
+	console.log("Hello Sara");
+}
 
-function helloKonrad() {}
+function helloKonrad() {
+	console.log("Hello Konrad");
+}
 
-function helloLisa() {}
+function helloLisa() {
+	console.log("Hello Lisa");
+}
 
-function helloAlexander() {}
+function helloAlexander() {
+	console.log("Hello Alexander");
+}
 
-function helloPer() {}
+function helloPer() {
+	console.log("Hello Per!");
+}
 
 function helloMartin() {}
 
 function helloSughra() {}
 
-function helloMinna() {}
+function helloMinna() {
+	console.log("Hello Minna");
+}
 
 function helloVincent() {}
 
 function helloBoss() {}
 
+function helloSughra() {
+	console.log("Hello Sughra");
+}
+
+function helloMinna() {
+	console.log("Hello Minna");
+}
+
+function helloVincent() {}
+
+function helloBoss() {
+	console.log("Hello Boss!");
+}
 function helloLeo() {}
 
 function helloJesper() {
