@@ -39,7 +39,9 @@ function helloLisa() {
     console.log('Hello Lisa');
 }
 
-function helloAlexander() {}
+function helloAlexander() {
+    console.log('Hello Alexander');
+}
 
 function helloPer() {}
 
