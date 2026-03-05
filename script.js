@@ -47,7 +47,9 @@ function helloMartin() {}
 
 function helloSughra() {}
 
-function helloMinna() {}
+function helloMinna() {
+    console.log('Hello Minna');
+}
 
 function helloVincent() {}
 
@@ -57,7 +59,9 @@ function helloSughra() {
     console.log('Hello Sughra');
 }
 
-function helloMinna() {}
+function helloMinna() {
+    console.log('Hello Minna');
+}
 
 function helloVincent() {}
 
