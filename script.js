@@ -77,6 +77,10 @@ function helloBoss() {
     console.log("Hello Boss!");
 }
 
+function helloLeo() {
+    console.log("Hello World, nä det är Leo");
+}
+
 function helloJesper() {
     console.log("Hejsan Jesper");
 }
