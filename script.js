@@ -19,7 +19,9 @@ helloJesper();
 
 function helloFeras() {}
 
-function helloJonathan() {}
+function helloJonathan() {
+	console.log("Hejsan Jonathan!");
+}
 
 function helloElias() {
     console.log("Hello Elias");
@@ -74,7 +76,6 @@ function helloVincent() {}
 function helloBoss() {
     console.log("Hello Boss!");
 }
-function helloLeo() {}
 
 function helloJesper() {
     console.log("Hejsan Jesper");
