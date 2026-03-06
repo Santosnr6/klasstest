@@ -24,37 +24,39 @@ function helloJonathan() {
 }
 
 function helloElias() {
-	console.log("Hello Elias");
+    console.log("Hello Elias");
 }
 
 function helloOliver() {}
 
 function helloSara() {
-	console.log("Hello Sara");
+    console.log("Hello Sara");
 }
 
 function helloKonrad() {
-	console.log("Hello Konrad");
+    console.log("Hello Konrad");
 }
 
 function helloLisa() {
-	console.log("Hello Lisa");
+    console.log("Hello Lisa");
 }
 
 function helloAlexander() {
-	console.log("Hello Alexander");
+    console.log("Hello Alexander");
 }
 
 function helloPer() {
-	console.log("Hello Per!");
+    console.log("Hello Per!");
 }
 
-function helloMartin() {}
+function helloMartin() {
+    console.log("Hallå Martin!");
+}
 
 function helloSughra() {}
 
 function helloMinna() {
-	console.log("Hello Minna");
+    console.log("Hello Minna");
 }
 
 function helloVincent() {}
@@ -62,22 +64,19 @@ function helloVincent() {}
 function helloBoss() {}
 
 function helloSughra() {
-	console.log("Hello Sughra");
+    console.log("Hello Sughra");
 }
 
 function helloMinna() {
-	console.log("Hello Minna");
+    console.log("Hello Minna");
 }
 
 function helloVincent() {}
 
 function helloBoss() {
-	console.log("Hello Boss!");
-}
-function helloLeo() {
-	console.log("Hello World, nä det är Leo");
+    console.log("Hello Boss!");
 }
 
 function helloJesper() {
-	console.log("Hejsan Jesper");
+    console.log("Hejsan Jesper");
 }
